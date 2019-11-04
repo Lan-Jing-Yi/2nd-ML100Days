@@ -1,2 +1,6 @@
 
 data/application_train.csv
+*.csv
+*.icloud
+*.csv
+data/application_test.csv
